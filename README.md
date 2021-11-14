@@ -12,8 +12,6 @@ S.no.| Name
 
 # Features
 
-## Must have features
-
 * User login and registration 
 * Admin Login
 * Add Books
